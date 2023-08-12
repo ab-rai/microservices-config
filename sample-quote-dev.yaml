@@ -1,4 +1,4 @@
-accounts:
+sample-quote:
   msg: Welcome to the EazyBank Accounts Dev application
   build-version: 2
   mailDetails:
