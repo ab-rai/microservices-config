@@ -1,5 +1,5 @@
 sample-quote:
-  msg: Welcome to the EazyBank Accounts Default application
+  msg: Welcome to the Sample Quote Default application
   build-version: 369
   mailDetails:
     hostName: default-accounts@eazybytes.com
