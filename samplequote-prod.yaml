@@ -1,5 +1,5 @@
 sample-quote:
-  msg: Welcome to the EazyBank Accounts Prod application
+  msg: Welcome to the Sample Quote Prod application
   build-version: 1
   mailDetails:
     hostName: prod-accounts@eazybytes.com
