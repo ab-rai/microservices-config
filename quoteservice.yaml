@@ -1,5 +1,5 @@
-sample-quote:
-  msg: Welcome to the Sample Quote Default application
+quoteservice:
+  msg: Welcome to the quoteService Default application
   build-version: 369
   mailDetails:
     hostName: default-accounts@eazybytes.com
