@@ -1,4 +1,4 @@
-sample-quote:
+quoteservice:
   msg: Welcome to the Sample Quote Dev application
   build-version: 2
   mailDetails:
