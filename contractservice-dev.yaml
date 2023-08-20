@@ -1,11 +1,11 @@
-prospectservice:
-  msg: Welcome to the Prospect Service Dev application
+contractservice:
+  msg: Welcome to the contract Service Dev application
   build-version: 2
   mailDetails:
     hostName: dev-accounts@gensolevlease.com
     port: 9020
     from: dev-accounts@gensolevlease.com
-    subject: Your Prospect Details from Gensolevlease Dev Environment
+    subject: Your contract Details from Gensolevlease Dev Environment
   activeBranches:
     - Chennai
     - Berlin
