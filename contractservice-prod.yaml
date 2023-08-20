@@ -1,11 +1,11 @@
-prospectservice:
-  msg: Welcome to the Prospect Service Prod application
+contractservice:
+  msg: Welcome to the contract Service Prod application
   build-version: 2
   mailDetails:
     hostName: prod-accounts@gensolevlease.com
     port: 9020
     from: prod-accounts@gensolevlease.com
-    subject: Your Prospect Details from Gensolevlease Prod Environment
+    subject: Your contract Details from Gensolevlease Prod Environment
   activeBranches:
     - Chennai
     - Berlin
