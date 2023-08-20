@@ -1,0 +1,12 @@
+contractservice:
+  msg: Welcome to the Prospect Service Default application
+  build-version: 2
+  mailDetails:
+    hostName: default-accounts@gensolevlease.com
+    port: 9020
+    from: default-accounts@gensolevlease.com
+    subject: Your Prospect Details from Gensolevlease default Environment
+  activeBranches:
+    - Chennai
+    - Berlin
+    - Indianapollis
