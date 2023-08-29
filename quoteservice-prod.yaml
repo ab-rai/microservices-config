@@ -1,11 +1,11 @@
 quoteservice:
-  msg: Welcome to the Sample Quote Prod application
+  msg: Welcome to the Quote Prod application
   build-version: 1
   mailDetails:
-    hostName: prod-accounts@eazybytes.com
+    hostName: prod-accounts@gensolevlease.com
     port: 9010
-    from: prod-accounts@eazybytes.com
-    subject: Your Account Details from Eazy Bank Production Environment
+    from: prod-accounts@gensolevlease.com
+    subject: Your Account Details from Gensolevlease Production Environment
   activeBranches:
     - Hyderabad
     - Paris
