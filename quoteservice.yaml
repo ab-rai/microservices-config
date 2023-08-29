@@ -2,11 +2,11 @@ quoteservice:
   msg: Welcome to the quoteService Default application
   build-version: 369
   mailDetails:
-    hostName: default-accounts@eazybytes.com
+    hostName: default-accounts@gensolevlease.com
     port: 9000
-    from: default-accounts@eazybytes.com
-    subject: Your Account Details from Eazy Bank Default Environment
+    from: default-accounts@gensolevlease.com
+    subject: Your Account Details from Gensolevlease Default Environment
   activeBranches:
-    - MumbaiNahiHaiAb
+    - Mumbai
     - London
     - Washington
