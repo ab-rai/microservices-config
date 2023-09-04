@@ -10,3 +10,8 @@ contractservice:
     - Chennai
     - Berlin
     - Indianapollis
+contract:
+  person:
+    name: Rohit
+    email: rohit@gmail.com
+    place: Mumbai
